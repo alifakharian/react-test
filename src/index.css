@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: iranyelkan;
+  font-family: fn;
+}
+@font-face {
+  font-family: fn;
+  src: url(../IRANSansXFaNum-Medium.ttf);
+}
+
+@font-face {
+  font-family: iranyelkan;
+  src: url(../Qs_Iranyekan\ bold.ttf);
+}
